@@ -1,4 +1,5 @@
-## GRE tunnel Configuration
+## Secure Office connectivity using GRE tunneling
+
 GRE(Generic Routing Encapsulation)<br>
 <b>A GRE tunnel is a networking technology that encapsulates packets of one network protocol inside another, creating a virtual point-to-point connection over a public network. <br>
 
